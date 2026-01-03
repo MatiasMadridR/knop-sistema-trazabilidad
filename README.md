@@ -1,4 +1,4 @@
-# KNOP DigitalFab – Sistema de Trazabilidad de Producción
+# KNOP DigitalFab – Sistema de Digitalización de Planillas de Producción
 
 Proyecto de título desarrollado a partir de una necesidad real detectada en KNOP Laboratorios S.A. (Quilpué), orientado a la digitalización de las planillas de fabricación de medicamentos, con énfasis en trazabilidad, control de procesos y cumplimiento normativo.
 
