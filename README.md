@@ -84,6 +84,11 @@ La implementación del sistema permite proyectar mejoras como:
 
 ---
 
+## Evidencias visuales
+Las capturas del sistema y diagramas se encuentran disponibles en la carpeta [`docs`](./docs).
+
+---
+
 ## Nota sobre el código
 Por tratarse de un sistema interno de uso productivo y regulado, el código fuente completo no se encuentra publicado.
 
